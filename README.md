@@ -1,2 +1,2 @@
 # Lab2-Agile-Team-Tools
-My first GitHub repository for Lab 2.
+This is my first Git and GitHub lab.
