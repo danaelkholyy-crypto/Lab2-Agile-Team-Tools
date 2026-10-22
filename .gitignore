@@ -1,0 +1,7 @@
+# Files Git should never track
+node_modules/
+__pycache__/
+.env
+.vscode/
+*.log
+.DS_Store
